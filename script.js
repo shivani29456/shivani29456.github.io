@@ -1,9 +1,8 @@
 /*
    
-    Template Name : Rolling - Freelancer Portfolio Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
+    Template Name : Portfolio
+    Author : Shivani
+    Website : http://www.shivani29456.github.io
 	
 	
 */
